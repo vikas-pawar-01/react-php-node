@@ -1,0 +1,28 @@
+{
+  "name": "node-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "eiows": "^3.6.1",
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0",
+    "uuid": "^8.3.2",
+    "ws": "^7.4.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.4",
+    "utf-8-validate": "^5.0.6"
+  }
+}

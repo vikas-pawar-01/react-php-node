@@ -1,0 +1,14 @@
+.ul-user-table {
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.li-user-height-data {
+	min-height: 100px;
+	margin: 10px 0;
+}
+
+.user-table-row {
+	/*background-color: #ffffff;*/
+	box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
+}
